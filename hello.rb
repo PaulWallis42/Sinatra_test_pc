@@ -6,5 +6,5 @@ get '/' do
 end
 
 get '/secret' do
-  'This is a secret page'
+  'This is a Secret Page'
 end
